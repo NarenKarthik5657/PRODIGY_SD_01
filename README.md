@@ -1,6 +1,6 @@
-# PRODIGY_SE_01 - Temperature Converter (Console)
+# PRODIGY_SD_01 - Temperature Converter (Console)
 
-This is Task-01 for the **PRODIGY Software Engineering Internship**. The task is to build a temperature conversion application that allows users to convert values between **Celsius**, **Fahrenheit**, and **Kelvin**.
+This is Task-01 for the **PRODIGY Software Development Internship**. The task is to build a temperature conversion application that allows users to convert values between **Celsius**, **Fahrenheit**, and **Kelvin**.
 
 ## 🔧 Features
 
@@ -20,13 +20,13 @@ This is Task-01 for the **PRODIGY Software Engineering Internship**. The task is
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/PRODIGY_SE_01.git
+git clone https://github.com/your-username/PRODIGY_SD_01.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd PRODIGY_SE_01
+cd PRODIGY_SD_01
 ```
 
 3. Compile and run:
@@ -45,14 +45,9 @@ Create a program that converts temperatures between Celsius, Fahrenheit, and Kel
 ## 📁 Folder Structure
 
 ```
-PRODIGY_SE_01/
+PRODIGY_SD_01/
 │
 ├── TemperatureConverter.java      # Main console application
 └── README.md                      # This file
 ```
 
-## 📬 Contact
-
-For queries or internship-related communication:  
-**Name:** *Your Name*  
-**Email:** *your.email@example.com*
